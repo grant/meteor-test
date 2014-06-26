@@ -1,2 +1,2 @@
-# meteor-test
+# Meteor Test
 A test of meteor
