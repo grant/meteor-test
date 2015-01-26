@@ -1,2 +1,6 @@
 .meteor/local
 .meteor/meteorite
+
+.DS_Store
+*.logs
+*.log
